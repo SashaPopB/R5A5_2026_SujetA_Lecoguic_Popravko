@@ -88,7 +88,7 @@ navigateur de Windows.
 
    ```bash
    cd ~
-   git clone https://github.com/DUT-Info-Montreuil/R5A5_2026_SujetA_Lecoguic_Popravko.git
+   git clone https://github.com/SashaPopB/R5A5_2026_SujetA_Lecoguic_Popravko.git
    cd R5A5_2026_SujetA_Lecoguic_Popravko
    ```
 
