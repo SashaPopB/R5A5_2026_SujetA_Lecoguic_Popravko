@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+backend/logs/
+
+# Secrets
+.env
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Divers
+.DS_Store
+.idea/
+.vscode/

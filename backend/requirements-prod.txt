@@ -1,0 +1,3 @@
+# Serveur WSGI de production
+-r requirements.txt
+gunicorn==23.0.0
